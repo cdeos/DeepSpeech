@@ -100,7 +100,7 @@ sudo apt-get install -y android-tools-adb android-tools-fastboot autoconf \
 #### Fetch source codes
 
 ```
-git clone https://github.com/cdeos/DeepSpeech
+git clone https://github.com/kantv-ai/DeepSpeech
 cd DeepSpeech
 git checkout kantv
 ```
@@ -109,7 +109,7 @@ git checkout kantv
 
 modify build script(build/envsetup.sh) to adapt to your local dev envs
 
-https://github.com/cdeos/DeepSpeech/blob/kantv/build/envsetup.sh#L34
+https://github.com/kantv-ai/DeepSpeech/blob/kantv/build/envsetup.sh#L34
 
 
 
